@@ -1,0 +1,13 @@
+bridgeLen = 4
+expAverageL = 3
+expAverageR = 3
+vehicleVelocityInfL = 180
+vehicleVelocityInfR = 180
+vehicleVelocitySupL = 280
+vehicleVelocitySupR = 280
+K1 = 4
+K2 = 3
+greenLightTimeL = 10
+greenLightTimeR = 8
+vehiclesL = 10
+vehiclesR = 9
